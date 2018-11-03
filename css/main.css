@@ -1,0 +1,40 @@
+:root{
+    --pinkish: #EC1966;
+}
+
+body{
+    text-align: left;
+    
+}
+
+.main{
+    margin-left: 5vw!important;
+}
+
+body a{
+    color: #000 ; 
+
+    }
+
+body a:hover{
+    color: var(--pinkish)!important; 
+    text-decoration: none;
+}
+
+.me{
+    width: 7em;
+    height: auto;
+}
+
+.main-h1{
+    font-size: 3.5em;
+}
+
+.my_name{
+    font-size: 4em;
+}
+
+.black-color{
+    color: #000!important;
+    
+}
